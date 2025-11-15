@@ -33,4 +33,7 @@ The first section is "ส่วนที่ 1: คันจิเดี่ยว
 The second section is "ส่วนที่ 2: คันจิเดี่ยวที่ AI ยกตัวอย่าง (Single Kanji I Introduced)". Create a table with columns: | คันจิ | คำแปลสั้นๆ |. Populate this table with single Kanji introduced by you as related examples or components.
 The third section is "ส่วนที่ 3: คำศัพท์ (หลายคันจิ) ที่คุณพิมพ์ (Vocabulary You Typed)". Create a table with columns: | คำศัพท์ | การอ่าน | คำแปลสั้นๆ |. Populate this table with compound words or vocabulary provided directly by the user.
 The fourth section is "ส่วนที่ 4: คำศัพท์ (หลายคันจิ) ที่ AI ยกตัวอย่าง (Vocabulary I Introduced)". Create a table with columns: | คำศัพท์ | การอ่าน | คำแปลสั้นๆ |. Populate this table with compound words or vocabulary introduced by you in example sentences or explanations.
+
+
+NOTE!! THE KANJI OR EVEN COMPONENTS MEANING MUST MATCH FROM JICHO INTERNATIONAL DICTIONARIES DO NOT GUESS THE MEAINNG OF ANYTHING THAT U NOT KNOW
 ```
